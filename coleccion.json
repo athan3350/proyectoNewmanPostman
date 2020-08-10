@@ -2,7 +2,8 @@
 	"info": {
 		"_postman_id": "101b93e3-0c40-4b15-a1d5-504c0f75ef16",
 		"name": "Colección de prueba",
-		"schema": "test"
+		"hola":"hola",
+		"hola1":"hola1"
 	},
 	"item": [
 		{
